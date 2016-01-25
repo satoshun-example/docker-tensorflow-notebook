@@ -15,4 +15,4 @@ $ docker run --rm -it -p 8888:8888 -v "$HOME/notebooks:/notebooks" satoshun/tens
 - Tensorflow 0.6.0
 - Ubuntu 15.10
 - Python3.4
-- Including Scipy, matplotlib, sklearn pandas
+- Including Scipy, matplotlib, sklearn, pandas
