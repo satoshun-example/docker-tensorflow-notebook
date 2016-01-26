@@ -1,4 +1,4 @@
-# jupyter with Tensorflow
+# Jupyter with Tensorflow
 
 ## How to use it?
 
