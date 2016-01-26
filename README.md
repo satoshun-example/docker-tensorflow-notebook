@@ -3,8 +3,8 @@
 ## How to use it?
 
 ```
-$ docker pull satoshun/tensorflow
-$ docker run --rm -it -p 8888:8888 -v "$HOME/notebooks:/notebooks" satoshun/tensorflow
+$ docker pull satoshun/tensorflow-notebook
+$ docker run --rm -it -p 8888:8888 -v "$HOME/notebooks:/notebooks" satoshun/tensorflow-notebook
 ```
 
 `$HOME/notebooks` is your notebook direcotry of local.
